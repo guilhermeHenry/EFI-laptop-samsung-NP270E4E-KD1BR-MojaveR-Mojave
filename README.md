@@ -2,13 +2,13 @@
 
 ---
 
-| | |
+| Mac Os Mojave 10.14.6 | Laptop Samsung Model NP270E4E-KD1BR|
 | ------ | ------ |
 | ![Mac Os Mojave 10.14.6](./assets/macosmojave.jpg) | ![NP270E4E-KD1BR](./assets/No-179-NP270E4E-KD1BR.jpg)  |
 
-| |Column 1 |Column 2 |
+
 |---|---|
- Fabricante | Samsung |
+| Fabricante | Samsung |
 |  Modelo | NP270E4E-KD1BR |
 |   GPU |  Intel HD Graphics 4000 1536MB |
 |   CPU |  Intel Core i3-3110M |
