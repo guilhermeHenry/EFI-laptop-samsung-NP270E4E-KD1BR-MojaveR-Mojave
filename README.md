@@ -4,7 +4,7 @@
 
 | | |
 | ------ | ------ |
-| ![Mac Os Mojave 10.14.6](./assets/No-97-images (1).jpg) | ![NP270E4E-KD1BR](./assets/No-179-NP270E4E-KD1BR.jpg)  |
+| ![Mac Os Mojave 10.14.6](./assets/macosmojave.jpg) | ![NP270E4E-KD1BR](./assets/No-179-NP270E4E-KD1BR.jpg)  |
 
 | |Column 1 |Column 2 |
 |---|---|
